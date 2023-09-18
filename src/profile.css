@@ -1,0 +1,44 @@
+
+.profile-layout{
+    width: 30%;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+
+.profile-flex{
+
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: left;
+}
+.profile-div{
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: cornsilk;
+    border-radius: 10px;
+    border: 2px solid rgb(74, 33, 237);
+    margin: 10px;
+}
+
+@media only screen and (max-width:768px){
+    .profile-layout{
+         width: 100% !important;
+    }
+}
+@media only screen and (max-width:375px){
+    .profile-layout{
+         width: 100% !important;
+    }
+}
+@media only screen and (max-width:1024px){
+    .profile-layout{
+         width: 70% !important;
+    }
+}
+@media only screen and (max-width:970px){
+    .profile-layout{
+         width: 50% !important;
+    }
+}

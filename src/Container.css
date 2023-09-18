@@ -1,0 +1,45 @@
+
+.header-container {
+  padding: 20px;
+  height: 150px;
+  background-image: linear-gradient(90deg, rgba(98,12,156,1) 0%, rgba(20,28,3,1) 0%, rgba(43,71,223,1) 92%);
+}
+.header-content{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: end;
+}
+  
+.home-div1-content{
+  height: 800px;
+  background-color: black;
+  color: azure;
+  background-image: url("./images/p1.jpg");
+  background-size: cover;
+}
+
+
+/* main footer */
+.footer-container {
+  background-image: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(69,69,252,1) 0%, rgba(27,25,25,1) 88%);
+  padding: 20px;
+  color: white;
+}
+/* for collection divs */
+.footer-content{
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: space-between;
+ 
+}
+/* single div */
+.footer-content-div{
+   height: 150px;
+}
+.main-container{
+  background-color:black;
+}
+
+.navbar-light .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255,1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}

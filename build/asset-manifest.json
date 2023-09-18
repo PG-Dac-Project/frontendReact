@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.98c45671.css",
+    "main.js": "/static/js/main.19668ac7.js",
+    "static/media/home-printer.png": "/static/media/home-printer.b67f34d6831bbeb2ff24.png",
+    "static/media/p1.jpg": "/static/media/p1.cae62993046490f076f2.jpg",
+    "static/media/best-printer.jpg": "/static/media/best-printer.9d56c3e3b0ceb23a015f.jpg",
+    "static/media/user.png": "/static/media/user.0d14c6999b4a5c8e86a7.png",
+    "static/media/printer-services-low-resolution-logo-white-on-transparent-background.png": "/static/media/printer-services-low-resolution-logo-white-on-transparent-background.7b1bce94bcf9298a9d99.png",
+    "static/media/printer1.jpg": "/static/media/printer1.fbd3f2bd783649fa7c1f.jpg",
+    "static/media/printer2.webp": "/static/media/printer2.86c44118ff205ba07a78.webp",
+    "index.html": "/index.html",
+    "main.98c45671.css.map": "/static/css/main.98c45671.css.map",
+    "main.19668ac7.js.map": "/static/js/main.19668ac7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98c45671.css",
+    "static/js/main.19668ac7.js"
+  ]
+}

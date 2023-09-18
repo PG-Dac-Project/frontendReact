@@ -1,0 +1,76 @@
+.card{
+    width: 350px;
+    text-align: center;
+    border: 1px;
+    
+}
+.card-body{
+    padding: 0%;
+    background-color: blue;
+}
+
+.Dashboard-div1-content{
+    background-color: black;
+    color: azure;
+    background-image: url("../images/p1.jpg");
+    background-size: cover;
+}
+
+.one-card{
+    padding: 20px;
+}
+
+.card-div{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: space-around;
+}
+.anchor{
+    background-color: blue;
+    border: 0px;
+}
+.cont-log{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(181,181,238,1) 0%, rgba(0,212,255,1) 100%);
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+form{
+    width: 30%;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+}
+.btn-primary{
+    width: 100%;
+    border: none;
+    border-radius:10px;
+}
+@media only screen and (max-width:768px){
+    form{
+         width: 100% !important;
+    }
+}
+@media only screen and (max-width:375px){
+    form{
+         width: 100% !important;
+    }
+}
+@media only screen and (max-width:1024px){
+    form{
+         width: 70% !important;
+    }
+}
+.table-responsive{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(181,181,238,1) 0%, rgba(0,212,255,1) 100%);
+    padding-top: 150px;
+    padding-bottom: 100px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.container-fluid{
+    padding-left: 0%;
+    padding-right: 0%;
+}
